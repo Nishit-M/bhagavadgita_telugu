@@ -1,0 +1,24 @@
+
+
+{
+"chapters" : [
+    {"number": "1", "title": "అర్జున విషాద యోగం", "subtitle": "Arjuna's Dilemma"},
+    {"number": "2", "title": "సాంఖ్య యోగం", "subtitle": "Transcendental Knowledge"},
+    {"number": "3", "title": "కర్మ యోగం", "subtitle": "Path of Action"},
+    {"number": "4", "title": "జ్ఞాన కర్మ సన్యాస యోగం", "subtitle": "Knowledge and Renunciation"},
+    {"number": "5", "title": "కర్మ సన్యాస యోగం", "subtitle": "Path of Renunciation"},
+    {"number": "6", "title": "ధ్యాన యోగం", "subtitle": "Path of Meditation"},
+    {"number": "7", "title": "జ్ఞాన విజ్ఞాన యోగం", "subtitle": "Knowledge and Wisdom"},
+    {"number": "8", "title": "అక్షర బ్రహ్మ యోగం", "subtitle": "Imperishable Brahman"},
+    {"number": "9", "title": "రాజ విద్యా రాజ గుహ్య యోగం", "subtitle": "Royal Knowledge"},
+    {"number": "10", "title": "విభూతి యోగం", "subtitle": "Divine Manifestations"},
+    {"number": "11", "title": "విశ్వరూప దర్శన యోగం", "subtitle": "Universal Form"},
+    {"number": "12", "title": "భక్తి యోగం", "subtitle": "Path of Devotion"},
+    {"number": "13", "title": "క్షేత్ర క్షేత్రజ్ఞ విభాగ యోగం", "subtitle": "Field and Knower"},
+    {"number": "14", "title": "గుణత్రయ విభాగ యోగం", "subtitle": "Three Modes of Nature"},
+    {"number": "15", "title": "పురుషోత్తమ యోగం", "subtitle": "Supreme Spirit"},
+    {"number": "16", "title": "దైవాసుర సంపద్విభాగ యోగం", "subtitle": "Divine and Demonic"},
+    {"number": "17", "title": "శ్రద్ధాత్రయ విభాగ యోగం", "subtitle": "Three Types of Faith"},
+    {"number": "18", "title": "మోక్ష సన్యాస యోగం", "subtitle": "Liberation and Renunciation"}
+  ]
+}
